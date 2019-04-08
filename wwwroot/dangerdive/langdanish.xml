@@ -1,0 +1,22 @@
+<data>
+	<language
+	boneSplash = "Fiskeben!"
+	gameOverSplash = "Game Over"
+	airSplash = "Luft!!"
+	endSplashCat = "Piv! RoboHavkattene kradser!
+Hjem i hundehuset og slikke sårene"
+
+	endSplashBomb = "K-Boooom! 
+Game over, Fido"
+
+	endSplashQuit = "Du stak halen mellem benene!
+- og du fik # kødben med"
+
+	endSplashDrown = "Du glemte at hente luft og druknede!
+Game Over!"
+
+	endSplashSubmarine = "Du svømmede ind i en ubåd!
+- SE DIG FOR! "
+
+	></language>
+</data>
