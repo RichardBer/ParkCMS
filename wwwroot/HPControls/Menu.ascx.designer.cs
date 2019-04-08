@@ -8,18 +8,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebEditor.HPControls {
+namespace WebEditor {
     
     
-    public partial class HatList {
+    public partial class Menu {
         
         /// <summary>
-        /// hatlistImage control.
+        /// LogoutLink control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image hatlistImage;
+        protected global::System.Web.UI.WebControls.LinkButton LogoutLink;
     }
 }

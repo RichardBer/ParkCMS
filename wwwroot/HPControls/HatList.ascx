@@ -1,4 +1,4 @@
-<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="HatList.ascx.cs" Inherits="WebEditor.HPControls.HatList" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="HatList.ascx.cs" Inherits="WebEditor.HPControls.HatList" %>
 
 <div id="hatlist">
 	<a href="javascript:Enter('UserWearable.aspx', 'hatlist');">
