@@ -10,10 +10,16 @@ By releasing the files to everyone, we believe and hopethat someone in the commu
 
 ### Prerequisites
 Recommended setup:
+
 *Windows server 2012 R2 (The park also can run on Windows server 2008 R2 but have been edited to run on Windows server 2012 R2, so you might need to fix bugs/errors in the wwwroot)
 IIS
+
 *Yet Another Forum 1.9.5 RC (Included in the repository. It might be possible to upgrade it to the newest YAF, but it will require some work and bug fixing.)
+
 *Microsoft SQL Server 2014
+
 *Microsoft .Net Framework 2.5 SDK
+
 *Windows SDK 7.1
+
 *Process Hacker 2 (The official method to get the park online is not known, but using this program will do the trick. You always have to stop DR Service Agent & DR Hundepark services after the computer have restarted)
