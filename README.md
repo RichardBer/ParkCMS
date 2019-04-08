@@ -25,9 +25,9 @@ Windows server 2012 R2 (The park also can run on Windows server 2008 R2 but have
 
 IIS
 
-Yet Another Forum 1.9.5 RC (Included in the repository. It might be possible to upgrade it to the newest YAF, but it will require some work and bug fixing.)
+[Yet Another Forum 1.9.5 RC](http://www.yetanotherforum.net/download) -Included in the repository. It might be possible to upgrade it to the newest YAF, but it will require some work and bug fixing
 
-Microsoft SQL Server 2014
+[Microsoft SQL Server 2014](https://www.microsoft.com/en-us/download/details.aspx?id=42299)
 
 Microsoft .Net Framework 2.5 SDK
 
