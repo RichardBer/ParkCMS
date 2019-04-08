@@ -6,7 +6,7 @@
 # ParkCMS
 Hundeparken Content Management Systems gives the true Hundeparken back to it users by sharing everything needed to run your own "retro park"
 
-Note: This ParkCMS is for running Hundeparken 2.0. We don't have all required files yet to run Hundeparken 1.0
+*Note: This ParkCMS is for running Hundeparken 2.0. We don't have all required files yet to run Hundeparken 1.0
 
 
 Tired of seeing your dream game being run down by admins that have no control over their own park?
