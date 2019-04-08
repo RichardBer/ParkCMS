@@ -17,4 +17,3 @@ Microsoft SQL Server 2014
 Microsoft .Net Framework 2.5 SDK
 Windows SDK 7.1
 Process Hacker 2 (The official method to get the park online is not known, but using this program will do the trick. You always have to stop DR Service Agent & DR Hundepark services after the computer have restarted)
-
