@@ -7,3 +7,7 @@
 
 ### Backend visible to admins and mods only
 ![alt text](https://i.imgur.com/3pqzhz9.png)
+
+
+### View and add objects, admins only
+![alt text](https://i.imgur.com/ZJZGdgp.png)
