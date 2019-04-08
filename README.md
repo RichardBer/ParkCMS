@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/cCiOvMV.png)
 
-![alt text](https://i.imgur.com/F4Viepd.png)
+![alt text](https://i.imgur.com/FmbQCUl.png)
                                             
                                             
 # ParkCMS
