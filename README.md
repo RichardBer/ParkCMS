@@ -1,12 +1,13 @@
 
 ![alt text](https://i.imgur.com/FmbQCUl.png)
+![alt text](https://i.imgur.com/cCiOvMV.png)
                                             
                                             
 # ParkCMS
 Hundeparken Content Management Systems gives the true Hundeparken back to it users by sharing everything needed to run your own "retro park"
 
 *Note: This ParkCMS is for running Hundeparken 2.0. We don't have all required files yet to run Hundeparken 1.0
-![alt text](https://i.imgur.com/cCiOvMV.png)
+
 
 Tired of seeing your dream game being run down by admins that have no control over their own park?
 No problem. We got this. In this repository we are releasing everything you need to start your own. We want everyone to have access to start their own park. 
