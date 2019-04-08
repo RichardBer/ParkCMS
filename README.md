@@ -14,6 +14,9 @@ No problem. We got this. In this repository we are releasing everything you need
 
 By releasing the files to everyone, we believe and hopethat someone in the community will take the files and keep working with developing the game. Without the community, the park is dead in a few years anyway.
 
+
+![alt text](https://i.imgur.com/h5gqvXK.png)
+
 ### Prerequisites
 Recommended setup:
 
