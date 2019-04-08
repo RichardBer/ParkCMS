@@ -1,4 +1,13 @@
 ![alt text](https://i.imgur.com/cCiOvMV.png)
+
+  _____           _     _____ __  __  _____ 
+ |  __ \         | |   / ____|  \/  |/ ____|
+ | |__) |_ _ _ __| | _| |    | \  / | (___  
+ |  ___/ _` | '__| |/ / |    | |\/| |\___ \ 
+ | |  | (_| | |  |   <| |____| |  | |____) |
+ |_|   \__,_|_|  |_|\_\\_____|_|  |_|_____/ 
+                                            
+                                            
 # ParkCMS
 Hundeparken Content Management Systems gives the true Hundeparken back to it users by sharing everything needed to run your own "retro park"
 
