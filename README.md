@@ -8,7 +8,7 @@ No problem. We got this. In this repository we are releasing everything you need
 
 By releasing the files to everyone, we believe and hopethat someone in the community will take the files and keep working with developing the game. Without the community, the park is dead in a few years anyway.
 
-
+### Prerequisites
 Recommended setup:
 Windows server 2012 R2 (The park also can run on Windows server 2008 R2 but have been edited to run on Windows server 2012 R2, so you might need to fix bugs/errors in the wwwroot)
 IIS
