@@ -4,7 +4,7 @@
 http://parkcms.tk/ Discord: RichardB#6837
                                             
                                             
-# Park
+# Hundeparken
 Hundeparken Content Management Systems gives the true Hundeparken back to it users by sharing everything needed to run your own "retro park"
 
 *Note: This ParkCMS is for running Hundeparken 2.0. We don't have all required files yet to run Hundeparken 1.0
@@ -38,3 +38,5 @@ Recommended setup:
 
 ## Deployment
 Full guide coming soon!
+
+*This is not an official github by Hundeparkens creators. 
