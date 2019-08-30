@@ -1,0 +1,8 @@
+<levels>
+
+	<level number = "1">
+		<board width ="13" height = "9" name = "14" bonelimit = "3">dot,dot,dot,dot,dot,dot,concrete,dot,dot,dot,dot,dot,dot,bigdot,concrete,dot,concrete,concrete,dot,concrete,dot,concrete,concrete,dot,concrete,bigdot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,concrete,concrete,dot,concrete,dot,pcat,dot,concrete,dot,concrete,concrete,dot,dot,dot,dot,dot,concrete,pcat,pcat,pcat,concrete,dot,dot,dot,dot,dot,concrete,concrete,dot,concrete,concrete,concrete,concrete,concrete,dot,concrete,concrete,dot,dot,dot,dot,dot,dot,dot,pdog,dot,dot,dot,dot,dot,dot,bigdot,concrete,dot,concrete,concrete,dot,concrete,dot,concrete,concrete,dot,concrete,bigdot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,dot,</board>
+		
+	</level>	
+
+</levels>

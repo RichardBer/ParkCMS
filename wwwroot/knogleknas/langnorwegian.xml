@@ -1,0 +1,24 @@
+<data>
+	<language
+	boneSplash = "Kjøttbein!"
+	catSplash = "Piv!"
+	levelSplash = "Bane "
+	gameOverSplash = "Game Over"
+	
+	endSplashCat = "Piv! Katten klorte og bet deg
+Hjem i hundehuset og slikke sårene"
+	endSplashBomb = "K-Boooom!
+Game over, Fido"
+	endSplashStone = "Du ble truffet av en sten
+Du er Hundemos!"
+	endSplashComplete = "Du kom gjennom alle 3 baner!
+Flink bisk! Du fortjener alle:
+# Kjøttebein"
+	endSplashExit = "Du krøp opp av hullet!
+# Kjøttbein"
+	endSplashQuit = "Du stakk halen mellom bena!
+- så du fikk ikke alle kjøttbena med deg:
+# Kjøttbein"
+	
+	></language>
+</data>

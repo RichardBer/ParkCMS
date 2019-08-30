@@ -1,0 +1,15 @@
+<data>
+	<language
+	boneSplash = "Kødben!"
+	catSplash = "Piv!"
+	gameOverSplash = "Game Over"
+	endSplashCat = "Piv! Katten rev og bed dig
+Hjem i hundehuset og slikke sårene"
+	endSplashComplete = "Du kom igennem banen!
+God hund! Du fortjener alle:
+# Kødben"
+	endSplashQuit = "Du stak halen mellem benene!
+- så du fik ikke alle kødben med:
+# Kødben"
+	></language>
+</data>

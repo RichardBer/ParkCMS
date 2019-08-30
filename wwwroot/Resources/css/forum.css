@@ -1,0 +1,225 @@
+/*
+	This File is for basic LAYOUT CSS -- Not for Color/Design which should stay in the theme.css file
+*/
+.PopupBody
+{
+	margin: 0;
+	padding: 0;
+}
+.yafnet
+{
+	padding: 5px;
+}
+.yafnet .quickReplyLine
+{	
+	padding: 5px 10px 5px 5px;
+    height:100%;
+}
+.yafnet textarea.basicBBCodeEditor 
+{
+	width: 100%;
+	height: 100%;
+}
+.yafnet textarea.BBCodeEditor 
+{
+	width: 100%;
+	height: 350px;
+}
+.yafnet #DivForumJump
+{
+	float:right;
+	margin-top: 10px;
+}
+.yafnet #DivPageAccess
+{
+	clear:right;
+	float:right;
+	margin-top: 10px;
+}
+.yafnet #DivIconLegend
+{
+	float:left;
+	margin-top: 10px;
+}
+.yafnet .leftItem
+{
+    float:left;
+}
+.yafnet .rightItem
+{
+    float:right;
+}
+.yafnet .postNavigation td
+{
+    text-align:right;
+}
+.yafnet .clearItem
+{
+    clear:both;
+}
+.yafnet #DivSmartScroller
+{
+	clear:both;
+}
+.yafnet .postsep td
+{
+	padding:0px;
+}
+.yafnet .yafpopupmenu
+{
+	padding:0px;
+}
+.yafnet .fileattach
+{
+	margin: 15px 0px 0px 0px;
+}
+.yafnet #yafprofilemenu
+{
+	float:left;
+	width: 150px;
+	margin: 5px 5px 5px 0px;
+}
+.yafnet #yafprofilecontainer
+{
+
+}
+.yafnet .RssFeedIcon
+{
+	margin-left: 5px;
+}
+.yafnet #yafhelpmenu ul
+{
+    list-style: none;
+}
+.yafnet #yafprofilemenu
+{
+	width: 19%; float: left; clear: left;
+}
+.yafnet #yafheaderEnd
+{
+    clear:both;
+}
+.yafnet .loggedInUser
+{
+    float: right;
+}
+.yafnet .outerMenuContainer
+{
+    float: left;
+    width: 100%;
+    line-height:30px;
+}
+.yafnet .menuContainer
+{	
+    float: left;
+}
+.yafnet .menuMyContainer
+{
+	float: right;
+}
+.yafnet #yafheader ul
+{   
+    display: inline; 
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+.yafnet #yafheader .loggedInUser,
+.yafnet #yafheader .menuContainer
+{
+    display: inline;
+}
+
+.yafnet #yafheader li
+{
+    display: inline;
+    padding: 2px 3px 2px 3px;    
+}
+
+.yafnet .QuickSearch
+{
+	display:inline;
+	float:right;
+	padding: 0px 4px 0px 4px;
+}
+.yafnet #yafprofilecontent
+{
+	margin: 5px 0px 5px 0px;
+	width: 80%; float: right;
+}
+.yafnet td.forumIconCol
+{
+	width: 1%;
+}
+.yafnet .threadedRowCollapsed .avatarimage
+{
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    padding: 1px;	
+    border: 1px solid #666;
+    margin-right: 8px;    
+}
+.yafnet .forumLinkCol .forumheading,
+.yafnet .forumLinkCol .forumviewing
+{
+	display: inline;
+}
+/* Exception: Default CSS for Syntaxt Highlighting */
+.yafnet .yafcodehighlighting .keytype { color : #FF9933; font-weight : normal; }
+.yafnet .yafcodehighlighting .keyword { color : #224FFF; font-weight : normal; }
+.yafnet .yafcodehighlighting .integer { color : #FF0032; }
+.yafnet .yafcodehighlighting .comment { color : #008100; }
+.yafnet .yafcodehighlighting .errors { color : #FF0000; font-weight : bold; }
+.yafnet .yafcodehighlighting .string { color : #FF0022; }
+
+/* Exception: Admin Styling */
+.yafnet .adminContainer
+{
+	width: 100%;
+}
+.yafnet .adminMenu
+{
+	padding: 5px;
+}
+.yafnet .adminMenuAccordian
+{
+	width: 200px;	
+}
+.yafnet .adminMenu ul
+{
+	margin: 0;
+	padding: 0;	
+}
+.yafnet .adminMenu li img
+{
+	vertical-align: bottom;
+}
+.yafnet .adminMenu li
+{
+	white-space:nowrap;
+	font-size: 10pt;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 4px;
+	margin-bottom: 5px;
+}
+.yafnet .adminContent
+{
+	width: 100%;
+	vertical-align: top;
+	padding-left: 5px;
+}
+.yafnet .quotetitle {
+	font-weight:bold;
+}
+
+.yafnet #SmiliesBox {
+	display:block;
+	overflow:auto;
+	height:180px;
+}
+
+.yafnet .smilesBox
+{
+    padding: 0 !important;
+}

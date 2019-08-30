@@ -1,0 +1,99 @@
+<levels>
+
+	<level number = "1">
+	
+		<board width ="6" height = "6" name = "10" bonelimit = "3">
+		door,dog,dirt,stone,stone,dirt,dirt,dirt,dirt,stone,stone,dirt,dirt,concrete,dirt,stone,stone,dirt,dirt,concrete,dirt,stone,dirt,bone,dirt,dirt,dirt,stone,dirt,bone,dirt,dirt,bone,stone,dirt,dirt,
+		</board>
+
+		<board width ="30" height = "15" name = "11" bonelimit = "3">
+		dog,bone,bone,bone,bone,bone,concrete,cat,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,bone,bone,bone,bone,bone,bone,bone,bone,concrete,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,door,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt
+		</board>
+		
+		<board width ="15" height = "8" name = "12" bonelimit = "5">
+		cat,concrete,dog,dirt,bone,concrete,bone,concrete,dirt,bone,dirt,concrete,concrete,concrete,concrete,empty,concrete,dirt,concrete,concrete,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,dirt,dirt,empty,concrete,dirt,concrete,dirt,dirt,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,empty,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,empty,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,empty,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,empty,concrete,dirt,concrete,dirt,concrete,dirt,dirt,dirt,concrete,dirt,concrete,dirt,concrete,dirt,empty,empty,bone,dirt,dirt,concrete,concrete,concrete,bone,concrete,dirt,dirt,dirt,concrete,door,
+		</board>
+		
+		<board width ="12" height = "6" name = "13" bonelimit = "4">
+		dog,empty,concrete,concrete,stone,stone,concrete,stone,stone,stone,concrete,stone,empty,stone,dirt,dirt,dirt,bone,dirt,dirt,bone,dirt,dirt,bone,empty,dirt,concrete,dirt,dirt,empty,dirt,empty,empty,empty,concrete,dirt,empty,empty,concrete,dirt,dirt,empty,concrete,empty,empty,empty,dirt,dirt,stone,empty,concrete,stone,concrete,empty,dirt,empty,empty,empty,concrete,dirt,bone,empty,concrete,bone,dirt,empty,dirt,empty,door,empty,concrete,dirt,
+		</board>
+		
+		<board width ="9" height = "9" name = "14" bonelimit = "3">
+		dog,dirt,dirt,dirt,bone,dirt,dirt,dirt,dirt,dirt,concrete,concrete,empty,empty,empty,concrete,concrete,dirt,dirt,concrete,cat,empty,bomb,empty,cat,concrete,dirt,dirt,empty,empty,dirt,dirt,dirt,empty,empty,dirt,bone,empty,bomb,dirt,door,dirt,bomb,empty,bone,dirt,empty,empty,dirt,dirt,dirt,empty,empty,dirt,dirt,concrete,cat,empty,bomb,empty,cat,concrete,dirt,dirt,concrete,concrete,empty,empty,empty,concrete,concrete,dirt,dirt,dirt,dirt,dirt,bone,dirt,dirt,dirt,dirt,
+		</board>
+		
+		<board width ="9" height = "7" name = "15" bonelimit = "3">
+		dog,concrete,dirt,dirt,dirt,concrete,concrete,bone,concrete,dirt,stone,empty,empty,empty,dirt,concrete,dirt,concrete,dirt,concrete,concrete,concrete,empty,dirt,concrete,dirt,concrete,dirt,concrete,door,concrete,empty,dirt,concrete,dirt,concrete,dirt,concrete,bone,concrete,empty,dirt,stone,cat,concrete,bone,concrete,dirt,concrete,empty,dirt,concrete,empty,concrete,concrete,concrete,dirt,dirt,empty,empty,bone,empty,concrete,
+		</board>
+		
+		<board width ="17" height = "8" name = "16" bonelimit = "3">
+		concrete,dog,stone,empty,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,concrete,empty,dirt,dirt,dirt,dirt,dirt,empty,dirt,dirt,empty,concrete,stone,door,concrete,empty,empty,concrete,stone,stone,empty,stone,empty,stone,empty,empty,bone,dirt,stone,dirt,bone,concrete,empty,concrete,bone,dirt,concrete,empty,concrete,dirt,concrete,concrete,concrete,bone,stone,concrete,dirt,bone,concrete,empty,concrete,concrete,empty,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,dirt,concrete,empty,concrete,concrete,empty,concrete,dirt,empty,stone,empty,stone,empty,empty,concrete,empty,empty,empty,concrete,empty,bone,concrete,dirt,concrete,dirt,concrete,dirt,empty,dirt,empty,empty,empty,empty,concrete,empty,stone,empty,empty,concrete,dirt,dirt,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,
+		</board>
+		
+	</level>	
+	
+	
+	
+	<level number = "2">
+	
+		<board width ="9" height = "6" name = "20" bonelimit = "3">
+		stone,dirt,dog,empty,empty,concrete,bone,dirt,dirt,door,dirt,dirt,dirt,dirt,concrete,dirt,bone,dirt,stone,stone,stone,dirt,dirt,concrete,empty,bone,dirt,bone,dirt,dirt,dirt,cat,empty,empty,empty,dirt,dirt,dirt,bomb,dirt,dirt,bomb,empty,empty,dirt,dirt,bomb,dirt,dirt,dirt,dirt,bomb,dirt,dirt,
+		</board>
+		
+		<board width ="14" height = "9" name = "21" bonelimit = "6">
+		bone,concrete,dirt,dog,dirt,dirt,dirt,dirt,dirt,stone,stone,bone,bone,cat,cat,concrete,dirt,dirt,dirt,dirt,dirt,dirt,dirt,stone,dirt,bomb,empty,empty,empty,concrete,dirt,dirt,dirt,dirt,stone,stone,dirt,stone,dirt,dirt,bomb,empty,empty,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,stone,dirt,dirt,stone,dirt,dirt,dirt,dirt,dirt,bomb,door,dirt,dirt,dirt,concrete,concrete,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,concrete,bone,bone,concrete,dirt,dirt,stone,empty,cat,dirt,dirt,dirt,dirt,dirt,concrete,bone,bone,concrete,dirt,dirt,dirt,empty,empty,dirt,dirt,dirt,dirt,dirt,concrete,concrete,concrete,concrete,dirt,dirt,dirt,empty,empty,dirt,dirt,
+		</board>
+		
+		<board width ="10" height = "9" name = "22" bonelimit = "6">
+		concrete,dog,concrete,bone,concrete,bone,concrete,bone,concrete,concrete,concrete,dirt,concrete,dirt,concrete,dirt,concrete,dirt,concrete,concrete,empty,empty,empty,empty,empty,empty,empty,empty,empty,cat,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,concrete,concrete,bone,concrete,bone,concrete,bone,concrete,concrete,dirt,concrete,concrete,dirt,concrete,dirt,concrete,dirt,concrete,concrete,dirt,concrete,cat,empty,empty,empty,empty,empty,empty,empty,empty,empty,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,door,
+		</board>
+		
+		<board width ="14" height = "9" name = "23" bonelimit = "5">
+		bone,concrete,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,cat,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,empty,stone,cat,stone,cat,empty,empty,empty,empty,empty,empty,empty,concrete,bone,empty,concrete,empty,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,dirt,concrete,bone,empty,concrete,empty,concrete,dirt,dirt,dirt,empty,bone,door,concrete,dirt,concrete,bone,concrete,concrete,empty,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,concrete,concrete,dog,concrete,empty,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,concrete,empty,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,concrete,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,cat,
+		</board>
+		
+		<board width ="12" height = "9" name = "24" bonelimit = "5">
+		dog,dirt,stone,empty,dirt,dirt,concrete,concrete,dirt,stone,concrete,concrete,dirt,concrete,concrete,empty,concrete,dirt,empty,empty,cat,dirt,dirt,concrete,dirt,concrete,bone,empty,concrete,dirt,concrete,concrete,dirt,concrete,dirt,concrete,bone,concrete,bone,empty,concrete,concrete,concrete,concrete,concrete,concrete,dirt,concrete,concrete,concrete,concrete,empty,empty,empty,cat,empty,empty,empty,dirt,dirt,concrete,cat,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,empty,dirt,concrete,dirt,dirt,dirt,dirt,dirt,stone,dirt,concrete,empty,concrete,dirt,concrete,concrete,concrete,concrete,concrete,dirt,dirt,dirt,dirt,door,concrete,empty,empty,empty,empty,empty,cat,dirt,concrete,bone,bone,
+		</board>
+		
+		<board width ="17" height = "9" name = "25" bonelimit = "6">
+		dog,concrete,concrete,cat,concrete,concrete,concrete,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,dirt,dirt,empty,concrete,empty,concrete,concrete,concrete,cat,concrete,concrete,concrete,empty,concrete,concrete,concrete,concrete,dirt,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,concrete,concrete,empty,concrete,cat,concrete,concrete,concrete,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,empty,concrete,empty,concrete,bone,concrete,concrete,empty,bone,empty,dirt,empty,dirt,empty,dirt,bone,dirt,empty,dirt,empty,dirt,bone,dirt,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,empty,concrete,empty,concrete,bone,bone,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,concrete,concrete,empty,concrete,empty,concrete,concrete,door,concrete,empty,concrete,empty,concrete,cat,concrete,empty,concrete,concrete,concrete,cat,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,
+		</board>
+		
+		<board width ="18" height = "9" name = "26" bonelimit = "4">
+		concrete,concrete,concrete,concrete,concrete,concrete,stone,concrete,stone,dog,concrete,concrete,concrete,concrete,concrete,concrete,stone,concrete,concrete,bone,empty,empty,empty,empty,dirt,empty,dirt,dirt,empty,dirt,dirt,dirt,dirt,dirt,stone,concrete,concrete,empty,stone,concrete,concrete,concrete,empty,concrete,dirt,dirt,concrete,concrete,concrete,concrete,concrete,dirt,dirt,dirt,concrete,empty,dirt,bone,bone,concrete,empty,concrete,empty,dirt,concrete,empty,empty,stone,empty,concrete,concrete,dirt,concrete,empty,concrete,concrete,concrete,concrete,empty,concrete,empty,dirt,stone,bone,bone,concrete,empty,concrete,concrete,dirt,concrete,stone,concrete,bone,bone,dirt,empty,concrete,empty,empty,concrete,empty,empty,empty,empty,empty,empty,dirt,concrete,dirt,concrete,concrete,concrete,concrete,empty,concrete,empty,empty,concrete,empty,bone,concrete,concrete,bone,empty,concrete,concrete,bone,empty,empty,dirt,empty,empty,stone,empty,empty,concrete,cat,empty,empty,empty,empty,cat,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,door,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,
+		</board>
+		
+	</level>	
+	
+	
+
+	<level number = "3">
+	
+		<board width ="16" height = "9" name = "30" bonelimit = "16">
+		stone,stone,stone,stone,stone,stone,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dog,bomb,bomb,bomb,bomb,bomb,bomb,bomb,bone,dirt,dirt,dirt,dirt,dirt,dirt,dirt,dirt,empty,empty,empty,empty,empty,empty,bone,bomb,bone,dirt,bone,dirt,stone,dirt,dirt,dirt,empty,empty,cat,empty,empty,empty,empty,stone,bomb,bone,bone,concrete,stone,stone,dirt,dirt,empty,empty,empty,empty,concrete,empty,stone,stone,stone,bomb,bomb,concrete,bone,stone,stone,dirt,concrete,bone,bone,bone,concrete,dirt,dirt,stone,stone,concrete,concrete,concrete,bone,stone,stone,dirt,concrete,bone,bone,bone,concrete,stone,dirt,stone,stone,bone,concrete,dirt,dirt,dirt,dirt,dirt,concrete,bone,bone,bone,concrete,dirt,dirt,bomb,stone,dirt,dirt,dirt,dirt,dirt,dirt,dirt,concrete,concrete,concrete,concrete,concrete,bone,dirt,dirt,bomb,dirt,concrete,dirt,dirt,dirt,dirt,door,
+		</board>
+		
+		<board width ="12" height = "8" name = "31" bonelimit = "9">
+		dog,empty,bone,concrete,bone,concrete,bone,bone,cat,stone,empty,concrete,dirt,concrete,empty,concrete,empty,concrete,bone,concrete,empty,concrete,cat,concrete,dirt,stone,empty,concrete,empty,concrete,bone,concrete,empty,concrete,empty,concrete,dirt,dirt,empty,empty,empty,stone,bone,concrete,empty,concrete,empty,concrete,dirt,concrete,dirt,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,dirt,concrete,dirt,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,dirt,concrete,dirt,concrete,empty,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,bone,concrete,cat,dirt,empty,bone,stone,bone,empty,door,
+		</board>
+		
+		<board width ="18" height = "9" name = "32" bonelimit = "11">
+		dog,dirt,cat,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,cat,empty,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,empty,concrete,empty,empty,empty,concrete,bone,concrete,empty,empty,empty,empty,empty,bone,bone,bone,dirt,empty,concrete,concrete,empty,concrete,empty,dirt,bone,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,door,bone,empty,concrete,empty,concrete,dirt,bone,bone,concrete,bone,dirt,dirt,dirt,dirt,dirt,concrete,empty,empty,concrete,empty,concrete,cat,concrete,dirt,concrete,concrete,concrete,bone,concrete,concrete,stone,concrete,dirt,concrete,empty,empty,concrete,empty,empty,cat,concrete,empty,concrete,dirt,dirt,bone,dirt,dirt,bone,concrete,dirt,dirt,empty,empty,concrete,concrete,concrete,concrete,concrete,stone,concrete,dirt,concrete,concrete,concrete,concrete,empty,concrete,concrete,concrete,empty,cat,empty,empty,empty,empty,empty,dirt,empty,cat,empty,empty,empty,empty,empty,empty,empty,empty,cat,
+		</board>
+		
+		<board width ="18" height = "9" name = "33" bonelimit = "11">
+		concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,dirt,stone,empty,concrete,concrete,concrete,concrete,empty,empty,empty,empty,empty,concrete,door,cat,concrete,concrete,concrete,dirt,concrete,empty,empty,empty,empty,dog,empty,empty,bone,empty,empty,concrete,concrete,cat,cat,cat,cat,dirt,concrete,empty,empty,bone,empty,empty,empty,concrete,bone,concrete,empty,concrete,concrete,cat,cat,cat,cat,cat,concrete,empty,concrete,bone,concrete,empty,empty,bone,bone,bone,empty,concrete,concrete,concrete,concrete,concrete,concrete,cat,concrete,empty,bone,concrete,bone,empty,empty,concrete,bone,concrete,empty,empty,empty,empty,empty,empty,empty,stone,concrete,empty,concrete,bone,concrete,empty,empty,empty,bone,empty,empty,empty,empty,empty,empty,empty,empty,dirt,empty,empty,empty,bone,empty,empty,concrete,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,concrete,empty,empty,empty,empty,empty,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,
+		</board>
+		
+		<board width ="18" height = "9" name = "34" bonelimit = "12">
+		cat,stone,cat,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,cat,empty,concrete,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,empty,empty,concrete,dog,concrete,dirt,concrete,bone,bone,bone,bone,dirt,concrete,empty,empty,cat,bone,concrete,empty,empty,concrete,bone,bone,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,concrete,empty,concrete,bone,empty,empty,concrete,bone,concrete,concrete,dirt,dirt,stone,empty,dirt,dirt,concrete,empty,concrete,empty,concrete,concrete,cat,empty,concrete,bone,concrete,bone,concrete,dirt,concrete,empty,concrete,dirt,concrete,empty,concrete,empty,concrete,concrete,empty,empty,concrete,bone,concrete,dirt,dirt,dirt,dirt,empty,concrete,dirt,stone,empty,empty,empty,door,concrete,empty,empty,concrete,concrete,concrete,dirt,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,concrete,empty,cat,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,empty,cat,
+		</board>
+		
+		<board width ="18" height = "9" name = "35" bonelimit = "11">
+		dog,concrete,cat,concrete,concrete,concrete,concrete,concrete,empty,concrete,concrete,concrete,empty,concrete,concrete,concrete,concrete,concrete,dirt,concrete,empty,concrete,cat,concrete,cat,concrete,empty,concrete,concrete,concrete,bone,concrete,cat,concrete,concrete,concrete,dirt,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,cat,concrete,bone,concrete,empty,concrete,cat,concrete,bone,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,empty,concrete,bone,concrete,empty,concrete,empty,concrete,bone,dirt,empty,dirt,empty,dirt,empty,dirt,dirt,dirt,empty,dirt,dirt,dirt,empty,dirt,empty,door,concrete,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,empty,concrete,bone,concrete,empty,concrete,empty,concrete,concrete,concrete,empty,concrete,empty,concrete,empty,concrete,bone,concrete,empty,concrete,bone,concrete,empty,concrete,cat,concrete,concrete,concrete,empty,concrete,empty,concrete,concrete,concrete,empty,concrete,concrete,concrete,bone,concrete,empty,concrete,concrete,concrete,concrete,concrete,empty,concrete,concrete,concrete,concrete,concrete,empty,concrete,concrete,concrete,empty,concrete,concrete,concrete,concrete,concrete,
+		</board>
+		
+	</level>	
+	
+</levels>

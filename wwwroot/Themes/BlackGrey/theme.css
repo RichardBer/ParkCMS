@@ -1,0 +1,513 @@
+﻿/* Menu ========================================================================== */
+
+.yafnet .outerMenuContainer 
+{
+	margin-top:-10px;
+	margin-bottom:10px;
+	line-height:14px !important;
+	font-weight:bold;
+	display:none;
+}
+.yafnet .outerMenuContainer a
+{
+	text-decoration:none;
+}
+.yafnet .outerMenuContainer a:hover
+{
+	text-decoration:underline;
+}
+.yafnet .outerMenuContainer li 
+{
+	padding:0 !important;
+}
+.yafnet .outerMenuContainer li+li
+{
+	padding-left:3px !important;
+}
+
+
+/*Forum, søg, medlemmer */
+.yafnet .menuContainer
+{
+    float: left !important;
+    display: inline;
+}
+.yafnet .menuList li
+{
+    display: inline;
+    padding: 0 !important;
+}
+
+
+/* min profil, min inbox, mine emner */
+.yafnet .menuMyContainer
+{
+    float: right !important;
+    display: inline;
+    margin-left:10px;
+}
+.yafnet .menuMyList li
+{
+    display: inline;
+    padding: 0;
+}
+
+
+/*log ud*/
+.yafnet .menuAccount
+{
+	display:none!important;
+}
+
+
+/*admin, host, moderer*/
+.yafnet .menuAdminList
+{
+    float: none !important;
+    color:Red;
+    margin-left:15px !important;
+}
+.yafnet .menuAdminList a
+{
+    color:Red;
+}
+
+
+/*Logget ind som...*/
+.yafnet #yafheader .loggedInUser
+{
+	display:none;
+}
+/*velkommen gæst*/
+.yafnet #yafheader .guestUser  
+{   
+	display:none;
+}
+/*Klokken er nu: 12:49:04. Dit sidste besøg var: 18. april 2011 12:47:51.*/
+#divTimeNow, #divTimeLastVisit
+{
+	display:none;
+}
+
+/*du har x ulæste beskeder*/
+#divUnreadMsgs
+{
+	padding-bottom:5px;
+}
+
+
+/*breadcrumb*/
+
+.yafnet .yafPageLink {
+	margin:20px 0 20px 5px;
+	font-weight: bold;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+
+.yafnet .yafPageLink a
+{
+	text-decoration: none;
+}
+
+
+/*indeholder pager og knapper*/
+.yafnet table.command
+{
+	border-collapse:collapse;
+	margin: 0 0 2px 0;
+}
+
+.yafnet table.command td
+{
+	padding:0;
+}
+
+
+/* 7 sider   1 2 3 > >>*/
+.yafnet .yafpager .pagecount
+{
+	margin-right:15px;
+}
+
+.yafnet .yafpager .pagecurrent, .yafnet .yafpager .pagelink, .yafnet .yafpager .pagelinklast
+{
+	margin-right:4px;
+}
+
+/* Buttons ======================================================================= */
+.yafnet a.yaflittlebutton
+{
+margin-left:8px;
+}
+
+.yafnet a.yafcssbigbutton {
+	background: transparent url('http://hundeparken.dk/Themes/Hundeparken/buttonEnd.gif') no-repeat bottom right;
+	color:black;
+	display:block;
+	font-size:10px;
+	height:21px;
+    padding-right: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin:2px 5px 2px 0;
+}
+
+.yafnet a.yafcssbigbutton span {
+    background: transparent url('http://hundeparken.dk/Themes/Hundeparken/buttonBack.gif') no-repeat bottom left;
+    display: block;
+    line-height: 10px;
+    padding: 5px 6px 6px 10px;
+}
+
+.yafnet a.yafcssbigbutton:hover
+{
+	background-position:top right;
+}
+
+.yafnet a.yafcssbigbutton:hover span
+{
+	background-position:top left;
+}
+
+
+
+/* Content table ================================================================= */
+
+
+.yafnet table.content
+{
+	border-collapse:collapse;
+	border-bottom:0px solid #3d3d3d;
+}
+
+.yafnet table.content+table.content
+{
+	margin-bottom:10px;
+}
+
+
+.yafnet table.content a
+{
+	text-decoration:none;
+}
+.yafnet table.content a:hover
+{
+	text-decoration:underline;
+}
+
+.yafnet img
+{
+	border:0;
+}
+
+
+.yafnet table.content td
+{
+	padding:8px;
+}
+
+/* Header 1 - Main header */
+.yafnet .header1 {
+	background-image: url('/images/yellow_bg.gif');
+	background-color: #7873fb;
+	color: white;
+	font-weight: bold;
+	font-size:10px;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	text-align: left;
+	height:40px;
+	padding:0 10px 0 10px!important;
+}
+.yafnet .header1 a:hover{
+	color: Black;
+}
+
+
+/* Header 2 - Sub header */
+.yafnet .header2 
+{
+    display: none;
+	background-color:#3d3d3d;
+	color:White;
+	font-weight: bold;
+	height:25px;
+	padding:0 10px 0 10px!important;
+}
+
+.yafnet a.header2 
+{
+	height: auto;
+	background-color: Transparent;
+	border-style: none;
+	background-image: none; 
+}
+
+/* Forum oversigt */
+.yafnet .forumheading
+{
+	font-weight:bold;
+}
+
+.yafnet .subforumheading, .yafnet .forumviewing
+{
+	color:#dddddd;
+}
+
+
+
+/* User info and post/article -  post oversigt*/
+.yafnet .topicMain .post_priority
+{
+	display:none;
+}
+.yafnet .topicMain .post_link
+{
+	font-weight:bold;
+}
+.yafnet .topicMain .topicStarter a, .yafnet .topicMain .topicPosted, .yafnet .topicMain .topicPager,  .yafnet .topicMain .topicPager a
+{
+	color:#dddddd;
+}
+.yafnet .post
+{
+	background-color: rgba(0,0,0, 0.4);
+}
+.yafnet .post_alt
+{
+	background-color: rgba(0,0,0, 0.2);
+}
+
+
+/* Postnavigation: forrige emne / næste emne */
+.yafnet .postNavigation
+{
+	display:none; /* den er mere i vejen end til nytte */
+	background-color: #5a5a5a;
+	padding:2px;
+}
+.yafnet .postNavigation td, .yafnet .postNavigation tr
+{
+	margin:0px!important;
+	padding:0px!important;
+}
+.yafnet .postNavigation a
+{
+	font-weight:normal;
+}
+
+/* post content */
+.yafnet .postheader 
+{
+	background:#3d3d3d;
+	margin:0;
+}
+
+.yafnet .postContainer tr.post  {
+	background-color: #5a5a5a !important;
+}
+
+.yafnet .postContainer_Alt tr.post_alt {
+	background-color: #5a5a5a;
+}
+
+.yafnet tr.postfooter {
+	background-color:#565656;
+	background-color: #5a5a5a;
+	color:#999999;
+}
+.yafnet tr.postfooter a {
+	color:#999999;
+}
+
+.yafnet .postdiv .yafsignature {
+	border-top:1px solid #525252;
+	margin-top:30px;
+	padding-top:10px;
+}
+
+.yafnet .postdiv .quote
+{
+	margin:10px 0 10px 20px;
+	padding:4px 0 8px 8px;
+	border-left:3px solid #31ffaa;
+} 
+.yafnet .innerquote > .quote
+{
+	border-left:3px solid #f51d85;
+}
+.yafnet .innerquote > .quote > .innerquote > .quote
+{
+	border-left:3px solid #6893ff;
+}
+.yafnet .innerquote > .quote > .innerquote > .quote > .innerquote > .quote
+{
+	border-left:3px solid #f0ff00;
+}
+.yafnet .postdiv  .quotetitle
+{
+	margin-bottom:5px;
+	display:block;
+}
+
+.yafnet .postdiv div.spoilerbox
+{
+	background-color:#525252!important;
+	border: 1px solid black;
+	color:White;
+}
+
+
+.yafnet .postdiv div.code
+{
+	margin:10px 0 10px 20px;
+	padding:4px 0 8px 8px;
+	border: 1px solid #3d3d3d;
+	border-left:3px solid #3d3d3d;
+	font-family: Courier New, Monospace;
+}
+
+
+.yafnet .postdiv .highlight
+{
+	background-color: #f0ff00;
+	color:Black;
+	padding:0 2px 0 2px;
+}
+
+
+.yafnet .postdiv img
+{
+	max-width:740px;
+}
+
+
+/*Takker*/
+.yafnet tr.postfooter+tr.post td, .yafnet tr.postfooter+tr.post_alt td
+{
+	background-color:#2be196;
+	padding:0 0 0 10px !important;
+	margin:0!important;
+	border:0!important;
+}
+.yafnet tr.postfooter+tr.post td div, .yafnet tr.postfooter+tr.post_alt td div
+{
+	font-weight:normal !important;
+	color:Black;
+}
+.yafnet tr.postfooter+tr.post td div a, .yafnet tr.postfooter+tr.post_alt td div a
+{
+	color:Black;
+}
+
+
+/*lille row under ovenstående row*/
+.yafnet .postsep tr, .yafnet .postsep td
+{
+	background-color: #525252;
+	padding:0!important;
+	margin:0!important;
+	border:0!important;
+}
+
+/* Attachment dialog ============================================================= */
+#yafpage_attachments .postheader
+{
+	background-color: #5a5a5a;
+}
+
+#yafpage_attachments td.post input[type="file"]
+{
+	color:White;
+}
+
+
+
+/* JQuery UI ===================================================================== */
+
+.ui-widget a
+{
+/*border:2px solid black;*/
+text-decoration:none;
+}
+
+/* harmonika menu / admin */
+.ui-accordion .ui-accordion-header 
+{
+	background-color:#3d3d3d;	
+}
+.YafMenuItem 
+{
+	border-bottom:1px solid #3d3d3d!important;
+}
+
+/* tabs */
+.ui-tabs
+{
+	border: 1px solid #3d3d3d;
+	padding:0;
+}
+
+.ui-tabs-nav
+{
+	background-color:#525252;	
+}
+
+.ui-state-default 
+{
+	background-color:#525252;
+	border:1px solid #3d3d3d;
+}
+
+ul.ui-tabs-nav 
+{
+	border-bottom:1px solid #3d3d3d!important;
+}
+
+.ui-state-active
+{
+	background-color:#5a5a5a;
+	border:1px solid #3d3d3d;
+}
+
+.ui-state-active a
+{
+	color:white;
+}
+
+/* popup dialog */
+div.ui-widget-overlay
+{
+	background-color:Black;
+}
+div.ui-dialog 
+{
+	background-color:#525252!important;
+	border: 2px solid #3d3d3d;
+}
+
+/* Yaf popup */
+.yafnet div.yafpopupmenu, .yafnet div.gotoPageForm
+{
+	background-color:#525252!important;
+	border: 2px solid #3d3d3d;
+	padding:5px;
+}
+
+
+/* Tweaks på sider =============================================================== */
+
+/* Edit profile */
+#yafpage_cp_editprofile table.content td.postheader
+{
+	background-color:#525252;
+	width:200px;
+}
+
+/* Post message */
+#yafpage_postmessage .postOptions .post
+{
+	background-color:#525252!important;
+}s
