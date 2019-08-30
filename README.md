@@ -39,4 +39,4 @@ Recommended setup:
 ## Deployment
 Full guide coming soon!
 
-*This is not an official github by Hundeparkens creators. 
+*This is not an official github by Hundeparkens creators or current owners. Use these files on your own risk as the owners try to shut this project down.
