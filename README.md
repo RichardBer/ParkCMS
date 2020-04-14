@@ -1,7 +1,7 @@
 
 ![alt text](https://i.imgur.com/FmbQCUl.png)
 ![alt text](https://i.imgur.com/cCiOvMV.png)
-http://parkcms.tk/ Discord: RichardB#6837
+Discord: RichardB#6837
                                             
                                             
 # Hundeparken
